@@ -1,4 +1,7 @@
-Integrantes:  Chien Yi Shin  Carla Vanessa de Oliveira  Lucas Rodrigues de Moraes  Hand Target Master - Um Jogo Interativo e Divertido com Detecção de Mãos  
+Integrantes:  Chien Yi Shin  
+Carla Vanessa de Oliveira  
+Lucas Rodrigues de Moraes  
+Hand Target Master - Um Jogo Interativo e Divertido com Detecção de Mãos  
 
 O projeto Hand Target Master é um jogo interativo que utiliza tecnologia de visão computacional e detecção de mãos para criar uma experiência dinâmica e envolvente. O objetivo principal é tocar nos alvos exibidos na tela antes que o tempo acabe, acumulando pontos para alcançar as melhores posições no ranking.  
   
