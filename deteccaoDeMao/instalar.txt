@@ -1,0 +1,28 @@
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+choco install python
+
+pip install opencv-python
+
+python -c "import cv2; print(cv2.__version__)"
+
+pip install opencv-contrib-python
+
+pip install wheel
+
+python -c "import cvzone; print(cvzone.__version__)"
+
+pip install cvzone
+
+python.exe -m pip install --upgrade pip
+
+pip install opencv-python cvzone numpy
+
+pip install mediapipe
+
+pip install pygame
+
+pip install --upgrade pygame
+
+
+para rodar o codigo -> python main.py
